@@ -23,4 +23,4 @@ A Trello/Slack-style project management tool: JWT auth, real-time chat and notif
 An in-progress AI-assisted project management platform (academic project) — exploring RAG-based knowledge search, Spring Boot + PostgreSQL/pgvector, and Dockerized infrastructure with load-balanced replicas.
 
 ## Let's connect
-
+LinkedIn: Soufiane Ammari - Feel free to reach out!
